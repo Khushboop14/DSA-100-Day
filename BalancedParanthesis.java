@@ -19,7 +19,6 @@ public class BalancedParanthesis {
             n--;
         }
 
-        scanner.close();
     }
 
     public static boolean isBalanced(String paranthesis) {
